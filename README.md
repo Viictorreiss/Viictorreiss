@@ -24,7 +24,7 @@
   <img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" alt="aws" />
   <img src="https://www.svgrepo.com/show/448228/grafana.svg" height="40" alt="graf" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="py" />
-  <img src="https://www.svgrepo.com/svg/473731/mysql.svg" height="40" alt="mysql" />
+  <img src="https://www.svgrepo.com/show/473731/mysql.svg" height="40" alt="mysql" />
   <img src="https://www.svgrepo.com/show/353929/jenkins.svg" height="40" alt="mysql" />
   
  
