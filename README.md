@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://pics.freeicons.io/uploads/icons/png/3516432171640067947-512.png" height="40" alt="docker"  />
+  <img src="https://www.svgrepo.com/show/349342/docker.svg" height="40" alt="docker"  />
 </div>
 
 ###
