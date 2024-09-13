@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">My name is Victor Mendes</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-I'm a DevOps/Infrastructure engineer currently at [Nextios](https://www.nextios.com.br/)
+My name is Victor Mendes, I currently work as a DevOps/Infrastructure engineer at [Nextios](https://www.nextios.com.br/)
 
 ###
 
@@ -26,6 +18,7 @@ I'm a DevOps/Infrastructure engineer currently at [Nextios](https://www.nextios.
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="py" />
   <img src="https://www.svgrepo.com/show/473731/mysql.svg" height="40" alt="mysql" />
   <img src="https://www.svgrepo.com/show/353929/jenkins.svg" height="40" alt="mysql" />
+  <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" height="40" alt="redis" />
   
  
   
