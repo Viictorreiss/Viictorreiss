@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> I'm a DevOps/Infrastructure engineer currently at Nextios. </p>
+I'm a DevOps/Infrastructure engineer currently at [Nextios](https://www.nextios.com.br/)
 
 ###
 
