@@ -19,8 +19,8 @@ My name is Victor Mendes, I currently work as a DevOps/Infrastructure engineer a
   <img src="https://www.svgrepo.com/show/473731/mysql.svg" height="40" alt="mysql" />
   <img src="https://www.svgrepo.com/show/353929/jenkins.svg" height="40" alt="mysql" />
   <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" height="40" alt="redis" />
-  
- 
+  <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="45" alt="terraform" />
+
   
 </div>
 
