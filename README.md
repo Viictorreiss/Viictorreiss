@@ -2,7 +2,7 @@
 
 ###
 
-My name is Victor Mendes, I currently work as a DevOps/Infrastructure engineer at [Nextios](https://www.nextios.com.br/)
+My name is Victor Mendes, I currently work as a DevOps/Platform engineer at [Nextios](https://www.nextios.com.br/)
 
 ###
 
@@ -16,10 +16,12 @@ My name is Victor Mendes, I currently work as a DevOps/Infrastructure engineer a
   <img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" alt="aws" />
   <img src="https://www.svgrepo.com/show/448228/grafana.svg" height="40" alt="graf" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="py" />
-  <img src="https://www.svgrepo.com/show/473731/mysql.svg" height="40" alt="mysql" />
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="45" alt="mysql" />
   <img src="https://www.svgrepo.com/show/353929/jenkins.svg" height="40" alt="mysql" />
   <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" height="40" alt="redis" />
   <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="45" alt="terraform" />
+  <img src="https://www.svgrepo.com/show/353380/airflow.svg" height="40" alt="airflow" />
+  
 
   
 </div>
