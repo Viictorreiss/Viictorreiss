@@ -30,7 +30,9 @@ My name is Victor Mendes, I currently work as a DevOps/Platform engineer at [Nex
 
 ###
 
-![Viictorreiss's Stats](https://github-readme-stats.vercel.app/api?username=Viictorreiss&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![Viictorreiss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viictorreiss&theme=dark&hide_border=false)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viictorreiss&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viictorreiss&theme=dark&hide_border=false" />
+</div>
 
 ###
