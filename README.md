@@ -25,14 +25,3 @@ My name is Victor Mendes, I currently work as a DevOps/Platform engineer at [Nex
 </div>
 
 ###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viictorreiss&theme=dark&show_icons=true&hide_border=false&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viictorreiss&theme=dark&hide_border=false" height="180px"/>
-</div>
-
-###
